@@ -7,6 +7,7 @@ function k(){
 function m1L(){
     return 'Q'
 }
+
 function m1R(){
     return 'p'
 }
@@ -28,3 +29,4 @@ function leftSide(){
 }
 
 var caston = [0,0,0,0,0]
+// [[0,0,0,0,0],[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0],[0,0,0,0,0,0,0],[0,0,0,0,0,0,0]]
