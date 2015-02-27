@@ -9,3 +9,5 @@ m1R = vr
 TODO :  
  - take account of yarn tension
  - Array base / Array add to create base point and additional stitch
+ - array Reduce to bindoff
+ - 
